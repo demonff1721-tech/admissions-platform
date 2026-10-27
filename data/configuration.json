@@ -1,0 +1,11 @@
+{
+  "institution": "Alliance University, Bengaluru",
+  "project_title": "Agentic AI for the Admission Lead-to-Counsellor Process",
+  "demo_mode": true,
+  "retrieval_similarity_threshold": 0.60,
+  "max_clarifications": 2,
+  "high_lead_threshold": 70,
+  "counsellor_capacity_limit": 8,
+  "sla_hours": 24,
+  "max_nurture_messages": 5
+}

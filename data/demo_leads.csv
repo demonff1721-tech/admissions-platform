@@ -1,0 +1,4 @@
+lead_id,name,channel,programme_interest,education,work_experience,intended_intake,application_readiness,total_score,classification,current_stage,current_status,assigned_counsellor,proposed_slot
+LEAD-2026-001,Rohan Gupta,Web Chat,MBA,B.Tech CSE Graduate (78%),Fresher,2026,Ready to apply,100,High,S8_Handoff_Approval,Awaiting Approval,Prof. Rajesh Nair,Today 03:00 PM
+LEAD-2026-002,Kavita Rao,WhatsApp,MBA,B.Com final year,Fresher,Undecided,Exploratory,55,Medium,S7_Nurturing,In Nurture,,
+LEAD-2026-003,Arjun Sen,Web Chat,PhD Astrobiology,M.Sc Physics,Fresher,2026,Exploratory,15,Uncertain,Exception_Desk,Open Exception,,

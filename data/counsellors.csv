@@ -1,0 +1,6 @@
+counsellor_id,name,specialisations,languages,active_high_leads,capacity,available_slots,is_available
+C1,Prof. Rajesh Nair,"MBA, Executive MBA, Management","English, Hindi",3,8,"Today 11:00 AM; Today 03:00 PM; Tomorrow 10:00 AM",1
+C2,Dr. Ananya Sharma,"B.Tech, Engineering, Data Science, Computer Science","English, Kannada, Hindi",5,8,"Today 02:00 PM; Tomorrow 11:30 AM; Tomorrow 04:00 PM",1
+C3,Prof. S. Venkatesh,"Law, BBA LLB, BA LLB, LLM","English, Tamil",2,8,"Today 12:00 PM; Tomorrow 02:30 PM",1
+C4,Priya Menon,"MBA, BBA, Commerce, Economics","English, Malayalam, Hindi",4,8,"Today 04:00 PM; Tomorrow 09:30 AM; Tomorrow 01:00 PM",1
+C5,Vikram Das,"Engineering, General","English, Telugu, Hindi",1,8,"Today 10:00 AM; Today 01:30 PM; Tomorrow 03:00 PM",1
